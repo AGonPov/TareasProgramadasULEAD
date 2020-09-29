@@ -7,6 +7,7 @@ public class VariableExamples {
         long myLong = 2147483649L;
 
         double myDouble = 22.55D;
+
     }
 }
 
